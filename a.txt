@@ -1,4 +1,3 @@
 abc
 def
-dev
-mas
+devmas
